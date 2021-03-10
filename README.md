@@ -1,7 +1,7 @@
 # cloudtrain
 Bienvenue a notre projet.
 
-# Allo section 2
+## Allo section 2
 Contenu important
 ## section 2.1
 sous sujet
